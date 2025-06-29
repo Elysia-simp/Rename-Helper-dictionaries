@@ -1,5 +1,8 @@
 //works for uma and cgss just becareful for bone differences
-Position=センター // this is センター for uma you can delete for cgss
+
+Position=センター
+// this is センター for uma you can delete for cgss
+
 Root=センター
 Hip=下半身
 Thigh_L=左足
